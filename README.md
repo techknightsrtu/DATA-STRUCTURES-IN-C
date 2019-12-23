@@ -1,10 +1,10 @@
 # DATA-STRUCTURES-IN-C
-Addition&MultiplicationOfPolynomials
-ArrayDemonstration
-BinarySearchTree
-CircularLinkedList
-DoublyLinkedList
-EnqueueDequeue
-LinkedList
-SparseMatrix
-Stack
+Addition&MultiplicationOfPolynomials <br/>
+ArrayDemonstration  <br/>
+BinarySearchTree  <br/>
+CircularLinkedList <br/>
+DoublyLinkedList  <br/>
+EnqueueDequeue  <br/>
+LinkedList  <br/>
+SparseMatrix  <br/>
+Stack  <br/>
