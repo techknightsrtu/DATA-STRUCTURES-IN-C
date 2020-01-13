@@ -1,3 +1,4 @@
+# This repository contains the implementation of the following data structures and programs in C language.
 # DATA-STRUCTURES-IN-C
 Addition&MultiplicationOfPolynomials <br/>
 ArrayDemonstration  <br/>
